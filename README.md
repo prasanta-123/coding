@@ -7,7 +7,7 @@ Intro to javascript:-
 -Now we used the javascript version 6 i.e, Echmascript 6(ES6).
 -in another way we called ES6 as the vanlia javascript.
 -javascript is mainly used for bulliding logics or functionality of a web page.
--
+
 
 
 variable:-
@@ -100,3 +100,36 @@ operator in javascript-
 3. assignment operator(=,=+,-=,*=,%=,**=)
 4. logical operator( and (&&), or(||))
 5. compairsion operator(==,!=,===,>,<,<=,>=)
+ 
+ CONDITIONAL STATEMENT IN JAVASCRIPT:-
+ -conditional statement are used to implement some condition in code.
+ -there arev3 types of conditional staement used their in javascript
+ 1. if condition:-
+  -if condition is true then statement is executed.
+  -syntax--
+    if(condition){
+        statement
+    }
+
+ 2. if-else condition:-
+ - if condition is true then if block is executed other wise it terminated to the else block.
+ syntax:-
+ if(condition){
+    statement;
+ }
+ else{
+    statement;
+ }
+3. else-if  condition:-
+
+-syntax
+if (condition){
+    statement
+}
+else if(condition){
+    staement;
+
+}
+else{
+    statement;
+}
